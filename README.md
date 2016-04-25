@@ -1,7 +1,6 @@
 ChinaDNS
 ========
 
-[![Build Status]][Travis CI]
 [![Coverage Status]][Coverage]
 
 Traditional way to bypass DNS poisoning is to send all queries to
